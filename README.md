@@ -1,3 +1,8 @@
+> **Nota.** Este es un fork del repositorio original del equipo,
+> [DuqueJR/InvertekAgent](https://github.com/DuqueJR/InvertekAgent), construido durante el
+> Agent Sprint Hackathon de ReshapeX (Medellín, julio de 2026) por el equipo *aigents*.
+> Lo conservo aquí como parte de mi portafolio; el crédito del trabajo es compartido.
+
 # Agent Sprint Hackathon by **ReshapeX**
 ## InvertekAgent
 Built by **aigents** (Medellin, July 25, 2026).
